@@ -1,0 +1,11 @@
+.node_modules
+
+dist
+coverage
+*.log
+.DS_Store
+.idea
+.vscode
+*.tsbuildinfo
+.env   
+# Ignore all files in the src directory except for .ts files
